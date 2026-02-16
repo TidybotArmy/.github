@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://tidybot-services.github.io/">
+    <img src="banner.png" alt="Tidybot Universe" width="100%" />
+  </a>
+</p>
+
 # tidybot-skills
 
 Shared robot skills for the Tidybot Universe. Each repo is one skill — a Python script that runs on any robot in the ecosystem.
